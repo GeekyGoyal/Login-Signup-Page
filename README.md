@@ -1,5 +1,5 @@
 
-# LOGIN-REGISTRATION FORM
+# LOGIN-SIGNUP PAGE
 ## REQUIREMENTS
 * [Bootstrap 4.0](https://getbootstrap.com/docs/4.0/getting-started/introduction/) 
 * [jQuery 3.5.0](https://jquery.com/download/) 
